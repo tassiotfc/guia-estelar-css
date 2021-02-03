@@ -1,0 +1,10 @@
+/*
+    Conecta um elemento HTML com o CSS
+
+    Tipos
+        - Global Selector: *
+        - Element/Type Selector: h1, h2, p, div
+        - Id Selector: #nome-do-id (exemplos: #box, #container)
+        - Class Selector: .nome-da-classe (exemplos: .red, .m-4)
+        - Attribute selector, Pseudo-class, Pseudo-element, entre outros
+*/

@@ -1,0 +1,21 @@
+/*selector global, afeta toda as tags do html*/
+* {
+    margin: 0;
+}
+
+/* um ID é único */
+#container {
+    width: 200px;
+}
+
+/* uma classe pode ser aplicada em vários elementos do HTML */
+.m-40{
+    margin: 40px;
+}
+
+/* agrupando declaração de propriedades */
+h1, h2 {
+    color: green;
+    font-size: 60px;
+    background: gray;
+}
