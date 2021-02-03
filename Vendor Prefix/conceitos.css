@@ -1,0 +1,22 @@
+/*
+    Vendor Prefixes
+    -Permite que browses adicione 'features'
+    a fim de colocar em uso alguma novidade que vemos no CSS
+
+    Prefixos de cada browser
+    -webkit- (Chrome, Safari, versões mais recentes do Opera.)
+    -moz- (Firefox)
+    -o- (Versões antigas do Opera)
+    -ms- (Internet Explorer)
+
+    Sites para saber sobre features novas:
+        http://ireade.github.io/which-vendor-prefix/
+        https://caniuse.com/
+*/
+
+p {
+    -webkit-background-clip: text; /*(Chrome, Safari, versões mais recentes do Opera.)*/
+    -moz-background-clip: text; /*(Firefox)*/
+    -o-background-clip: text; /*(Versões antigas do Opera)*/
+    -ms-background-clip: text; /*(Internet Explorer)*/
+}
