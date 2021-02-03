@@ -1,0 +1,27 @@
+/*
+    At-Rules (Regras com @ - at no ingles)
+    - Está relacionado ao comportamento do CSS
+    - começa com o sinal de '@' seguido do identificador e valor
+
+    ## Exemplos comuns
+    - @import       incluir um CSS externo
+    - @media        regras condicionais para mobile
+    - @font-face    fontes externas
+    - @keyframes    animation
+
+    # Exemplos práticos 
+*/
+
+@import url("url-externa");
+
+@media(min-width: 500px){
+    /* regras aqui */
+}
+
+@font-face {
+    /* regras aqui */
+}
+
+@keyframes nameOfAnimation {
+    /* regras aqui */
+}
