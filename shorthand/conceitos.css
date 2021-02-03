@@ -1,0 +1,38 @@
+/*
+    Propriedades de CSS que deixam você setar os valores de outras propriedades de CSS simultaneamente.
+
+    Vantagens:
+    - Concisão
+    - Legibilidade
+
+    Exemplos de propriedades shortdand: 
+        background, font, margin, border, 
+        border-top, border-right, border-bottom, 
+        border-left, border-width, border-color, 
+        border-style, transition, animation, 
+        transform, padding, list-style, border-radius.
+
+    Detalhes:
+    - Não irá considerar propriedades anteriores
+    - Valores não especificiados irão assumir valor padrão
+    - E.g., a ordem descrita não importa, mas, se houver muitas propriedades 
+      com valores semelhantes, poderemos encontrar problemas
+*/
+
+h1 {
+    background-color: #000;
+    background-image: url(images/bg.gif);
+    background-repeat: no-repeat;
+    background-position: top right;
+
+    background: #000 url(images/bg.gif) no-repeat top right;
+
+    font-style: italic;
+    font-weight: bold;
+    font-size: .8em;
+    line-height: 1.2;
+    font-family: Arial, sans-serif;
+
+    font: italic bold .8em/1.2 Arial, sans-serif;
+}
+
