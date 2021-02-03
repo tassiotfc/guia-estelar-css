@@ -1,0 +1,13 @@
+/*
+    Formas:
+    - inline: usar o atributo 'style' na tag
+    - <style>: 
+        - definir a estilização dentro da tag '<style></style>'
+        - deve ser declarada dentro do <head>
+        - a declaração da estilização é feita similar ao uso de um arquivo externo (usamos os seletores)
+    - link
+        - arquivo css externo
+        - forma mais recomendada (+ legibilidade, + perfomance para carregar links externos do que o @import)
+    - @import
+        - usado para importar arquivo css externo, como, por exemplo, uma fonte do google
+*/
