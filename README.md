@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## 🚀 Tecnologias
 
-Nesse curso foi utilizando as seguintes tecnologias:
+Nesse curso foram utilizados as seguintes tecnologias:
 
 - HTML
 - CSS
