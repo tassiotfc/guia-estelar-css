@@ -7,8 +7,6 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<br>
-
 ## 🚀 Tecnologias
 
 Nesse curso foram utilizados as seguintes tecnologias:
